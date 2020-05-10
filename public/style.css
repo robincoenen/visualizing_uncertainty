@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Condensed&family=Playfair+Display:ital,wght@1,500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=IBM+Plex+Sans+Condensed&family=Playfair+Display:ital,wght@1,500&display=swap');
+
+/*font-family: 'Playfair Display', serif;*/
+/*font-family: 'IBM Plex Sans Condensed', sans-serif;*/
+
+h1{
+    font-size: 3.5em;
+    font-family: 'Playfair Display', serif;
+    font-weight: 400;
+    
+}
+
+
+h5{
+    font-size: 0.7em;
+    font-family: 'IBM Plex Mono', monospace;
+    font-weight: 400;
+    margin-top: 0;
+
+    
+}
+
+
+h4{
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    font-size: 1.2em;
+    font-weight: 400;
+    color: #707070;
+    margin-bottom: 5%;
+}
+
+p{
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    font-size: 1em;
+    font-weight: 400;
+    color: #000;	
+}
+body{
+    
+    font-family: 'IBM Plex Sans Condensed', sans-serif;
+    font-weight: 400;
+    text-align:center;
+    background-color:#f8f8f8;
+    
+}
+
+
+button {
+  background-color: #F0F0F0;
+  border: 1px solid ;
+  border-color: coral;
+  border-radius: 25px;
+  color: black;
+  padding: 26px 20px;
+  margin-left: 1%;
+  text-align: center;
+  text-decoration: underline;
+  display: inline-block;
+  font-size: 16px;
+}
+
+
+
+input[type=text] {
+  text-align: left;
+  background-color: #F0F0F0;
+  color: black;
+  width: 50%;
+  padding: 26px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: 0px solid red;
+  border-radius: 4px;
+  font-family: 'Playfair Display', serif;
+  font-size: 2em;
+  font-weight: 400;
+
+}
+
+#myImage{width: 400px !important; opacity: 0.9;}
+
+#demo{ color: white; opacity: 0;}
